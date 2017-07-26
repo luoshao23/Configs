@@ -5,9 +5,10 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 
 sudo yum -y install mosh
 sudo yum -y install git
-
+sudo yum -y install gcc gcc-c++ kernel-devel
 # download anaconda
 wget https://repo.continuum.io/archive/Anaconda2-4.4.0-Linux-x86_64.sh
 
 # install anaconde
 bash Anaconda2-4.4.0-Linux-x86_64.sh
+
