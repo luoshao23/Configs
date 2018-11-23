@@ -1,2 +1,2 @@
 # Server_config
-Customized config file for server
+My customized configuration files for server
